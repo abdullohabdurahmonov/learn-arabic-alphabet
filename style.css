@@ -1,1 +1,7 @@
-.card{}
+
+.box{
+    margin: 10px 15px 0 15px;
+}
+.card-title{
+    font-size: small;
+}
