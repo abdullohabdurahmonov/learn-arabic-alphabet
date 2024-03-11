@@ -1,7 +1,19 @@
-
+*{
+    box-sizing: border-box;
+}
+body{
+    
+}
 .box{
     margin: 10px 0px 0px 15px;
 }
+.card{
+    
+}
 .card-title{
     font-size: small;
+}
+button{
+    border: none;
+    background-color: transparent;
 }
